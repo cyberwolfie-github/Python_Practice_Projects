@@ -1,7 +1,9 @@
-# side_projects
-A repository where I practice writing Python scripts 
-based on the tools/source codes that I have found online.
-No credit whatsoever to me and all credits to the original creators. 
+#Python Practice Projects
+This repository contains a collection of projects that I have created as part of my ongoing journey to improve my Python programming skills. I have sourced inspiration from various online resources and tutorials.
 
-### ONCE AGAIN ###
-### ALL THESE ARE JUST FOR PRACTICE PURPOSES ###
+While I have put effort into understanding and implementing these projects, it's important to note that all credit for the ideas and original source code belongs to the creators of the resources I have learned from.
+
+This repository serves as a personal record of my progress and development as a Python programmer.
+
+Disclaimer
+The projects in this repository are solely for educational and practice purposes. They are not intended for commercial use or distribution.
